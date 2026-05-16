@@ -1,14 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Tahir%20Hameed&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20|%20REST%20API%20Engineer&descAlignY=60"/>
+# ⚡ Tahir Hameed ⚡
 
-</div>
+### 🚀 Software Engineering Student | MERN Stack Developer | REST API Engineer
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Backend+Engineer;REST+API+Developer;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;Backend+Engineer;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -16,14 +12,10 @@
 
 # 💫 About Me
 
-```yaml
-Name: Tahir Hameed
-Role: Software Engineering Student
-Focus: Full Stack MERN Development
-Learning: Backend Architecture & System Design
-Passion: Building scalable and modern applications
-Goal: Becoming a professional software engineer
-```
+* 💻 Passionate about scalable web applications
+* 🚀 Focused on MERN Stack & REST APIs
+* 📚 Learning backend architecture & system design
+* 🔥 Building projects consistently every day
 
 ---
 
@@ -47,23 +39,23 @@ Goal: Becoming a professional software engineer
 
 ---
 
-# ⚒️ Tech Arsenal
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,javascript,typescript,html,css,tailwind,git,github,vscode,firebase,cpp" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,javascript,html,css,tailwind,git,github,vscode,firebase" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TahirHameed106&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TahirHameed106&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirHameed106&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirHameed106&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -73,43 +65,19 @@ Goal: Becoming a professional software engineer
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TahirHameed106&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img src="https://streak-stats.demolab.com?user=TahirHameed106&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 2026 Goals
+# 🚀 Current Goals
 
-<div align="center">
-
-| Goal                         | Status |
-| ---------------------------- | ------ |
-| Build Advanced MERN Projects | 🚧     |
-| Master REST APIs             | 🚧     |
-| Daily 15 Commits             | 🔥     |
-| Learn System Design          | 📚     |
-| Build Portfolio Website      | ⚡      |
-| Contribute to Open Source    | 🎯     |
-
-</div>
-
----
-
-# 🧠 Currently Exploring
-
-<div align="center">
-
-```diff
-+ Advanced MERN Stack
-+ Authentication Systems
-+ Backend Optimization
-+ API Security
-+ Cloud Deployment
-+ Scalable Architecture
-```
-
-</div>
+* ✅ Build advanced MERN projects
+* ✅ Master REST API development
+* ✅ Maintain daily GitHub commits
+* ✅ Learn scalable backend architecture
+* ✅ Build professional portfolio
 
 ---
 
@@ -125,16 +93,6 @@ Goal: Becoming a professional software engineer
 
 <div align="center">
 
-## ⚡ "Code. Learn. Build. Repeat." ⚡
-
-<img src="https://komarev.com/ghpvc/?username=TahirHameed106&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+### ⚡ Code • Learn • Build • Repeat ⚡
 
 </div>
